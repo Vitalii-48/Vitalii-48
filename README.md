@@ -19,10 +19,12 @@
 ---
 
 ## 📂 Мої проєкти
-- ⚙️ [HomeMadeCandle](https://homemadecandle.onrender.com/) — iShop з CRUD‑адмінкою з чистою логікою
+- 🕯️ [HomeMadeCandle](https://homemadecandle.onrender.com/) — iShop з CRUD‑адмінкою з чистою логікою
   🔗 [GitHub репозиторій](https://github.com/Vitalii-48/HomeMadeCandle)
-- 🕯️ [Свічки](https://site-9wte.onrender.com/) — невеликий магазин на Flask
-  🔗 [https://github.com/Vitalii-48/Site]
+- 🕯️ [Fire Lady](https://fire-lady.onrender.com) — невеликий магазин на Flask
+  🔗 [GitHub репозиторій](https://github.com/Vitalii-48/Fire-Lady)
+- ⚙️ [ToDo](https://todo-a4oa.onrender.com) - веб-сайт для планування завдань на Flask
+  🔗 [GitHub репозиторій](https://github.com/Vitalii-48/ToDo)
 - 🔥 [TelegramBot](https://github.com/Vitalii-48/Telegram_bot) — Telegram‑боти для бренду свічок
 
 
