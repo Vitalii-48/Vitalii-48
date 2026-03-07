@@ -26,6 +26,8 @@
 - ⚙️ [ToDo](https://todo-a4oa.onrender.com) - веб-сайт для планування завдань на Flask
   🔗 [GitHub репозиторій](https://github.com/Vitalii-48/ToDo)
 - 🔥 [TelegramBot](https://github.com/Vitalii-48/Telegram_bot) — Telegram‑боти для бренду свічок
+- 💼 vacancy_project(https://vacancy-project.onrender.com) — Django‑додаток для збору вакансій з Work.ua, Robota.ua та інтеграції з Telegram‑ботом   
+  🔗 [GitHub репозиторій](https://github.com/Vitalii-48/vacancy_project)
 
 
 ---
