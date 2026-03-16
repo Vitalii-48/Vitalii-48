@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Про мене
 - Python Developer та Junior QA 
-- Спеціалізуюся на Flask
+- Спеціалізуюся на Django, Flask
 - Люблю чистий, структурований backend‑код
 - Активно розвиваю e‑commerce та open‑source проєкти
 
