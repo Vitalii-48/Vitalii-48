@@ -28,7 +28,7 @@ Actively building e-commerce and open-source projects
 🔗 [GitHub](https://github.com/Vitalii-48/ToDo)
 - 🔥 TelegramBot — Telegram bots for a candle brand
 🔗 [GitHub](https://github.com/Vitalii-48/Telegram_bot)
-- 💼 [vacancy_project](https://vacancy-project.onrender.com) — Django app aggregating job listings from Work.ua and Robota.ua with Telegram bot integration
+- 💼 [vacancy_project](https://vacancy-project.onrender.com/demo/) — Django app aggregating job listings from Work.ua and Robota.ua with Telegram bot integration
 🔗 [GitHub](https://github.com/Vitalii-48/vacancy_project)
 - 📋 [QA Portfolio](https://tinyurl.com/Portfolio-QA) — Manual testing artifacts: test cases, checklists, and bug reports 
 
